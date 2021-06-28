@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\bin\Debug\SAVT_Proje.exe.config
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\bin\Debug\SAVT_Proje.exe
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\bin\Debug\SAVT_Proje.pdb
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.csprojAssemblyReference.cache
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.Form1.resources
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.Properties.Resources.resources
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.csproj.GenerateResource.cache
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.exe
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.pdb
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.Form2.resources
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\obj\Debug\SAVT_Proje.Form3.resources
+C:\Users\1\source\repos\SAVT_Proje\SAVT_Proje\bin\Debug\Database11.accdb
